@@ -1,4 +1,9 @@
 package com.example.todoapp
 
-class CreateUser {
+import androidx.appcompat.app.AppCompatActivity
+
+class CreateUser : AppCompatActivity(){
+
+
+
 }
